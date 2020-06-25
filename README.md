@@ -11,3 +11,9 @@ and second file is C# source code file. The C# source code file just has been in
 |Grasshopper Result|Photo|
 |---|---|
 |<img src="https://github.com/KIMGEONUNG/british_museum_great_court_roof/blob/master/git_material/result_Image.jpg?raw=true" width=350> |<img src="https://github.com/KIMGEONUNG/british_museum_great_court_roof/blob/master/git_material/british_museum_great_court_roof.jpg?raw=true" width=350> |
+
+### Environment & Dependency
+
+- Rhino5
+- Grasshopper
+- GHPython (Grasshopper python plugin) 
